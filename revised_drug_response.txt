@@ -1,0 +1,18 @@
+Cells	ABT737	Afatinib	Afuresertib	Alisertib	AT13148	AZ6102	AZD4547	AZD5363	AZD6482	AZD6738	AZD8055	AZD8186	BDP-00009066	BMS-536924	Camptothecin	Cediranib	Crizotinib	Dactolisib	Dasatinib	Entinostat	Epirubicin	Gemcitabine	GSK269962A	Ipatasertib	Irinotecan	JQ1	Lapatinib	MK-2206	Navitoclax	Nilotinib	NU7441	NVP-ADW742	OSI-027	Paclitaxel	Pevonedistat	RO-3306	Sapitinib	Sorafenib	Taselisib	Tozasertib	Trametinib	UMI-77	VE821	Vinblastine	Vinorelbine	Vorinostat	VX-11e	Wee1 Inhibitor	WEHI-539	WIKI4	YK-4-279	ZM447439
+BT-20	R	R	S	R	R	R	R	S	S	R	S	R	R	R	R	R	R	S	R	R	R	R	R	S	R	R	S	S	S	R	S	R	S	S	S	R	R	S	S	R	R	R	R	R	R	R	R	S	R	R	S	R
+CAL-120	S	R	R	R	R	R	R	R	R	R	S	R	R	R	R	R	R	S	R	R	S	S	R	R	R	R	R	R	S	R	R	R	S	R	S	R	R	R	R	R	R	R	R	R	S	R	R	R	S	R	R	R
+CAL-51	R	R	S	R	R	S	S	S	R	S	R	R	S	S	S	S	R	S	R	S	S	S	R	S	S	R	S	R	S	S	R	R	S	R	S	R	R	S	S	S	R	S	S	S	S	S	R	S	R	R	S	R
+CAL-85-1	R	R	R	R	R	R	R	R	R	S	S	R	S	S	R	S	S	S	R	S	R	S	R	R	R	R	R	R	S	R	R	R	S	S	S	R	R	R	S	R	S	S	R	R	R	S	R	R	R	R	R	R
+DU-4475	S	S	R	S	R	S	S	R	R	S	S	R	S	S	S	S	S	S	R	S	S	S	S	R	S	S	S	S	S	S	S	S	S	S	S	S	R	S	R	S	S	S	S	S	S	S	S	S	S	R	S	S
+HCC1143	S	S	R	R	R	R	R	R	R	S	R	S	R	S	R	R	R	S	S	S	R	R	R	R	R	R	S	R	S	R	R	S	R	S	R	R	R	R	S	R	S	R	S	R	R	S	R	S	S	S	S	R
+HCC1187	R	R	R	S	S	R	S	R	R	R	R	R	S	R	R	R	R	R	R	R	R	R	R	R	R	S	R	R	R	R	R	R	R	S	R	R	R	S	R	R	R	S	R	R	S	R	R	R	R	R	R	S
+HCC1395	R	S	S	R	R	R	S	S	S	S	S	S	S	S	S	S	S	S	R	S	R	R	S	S	R	R	S	S	R	R	S	S	S	S	R	R	R	R	S	R	R	R	R	S	S	R	R	S	R	R	S	R
+HCC1937	S	R	R	R	R	R	R	R	R	R	R	R	R	R	R	S	R	R	R	R	R	R	R	R	R	R	R	R	S	R	R	R	S	R	R	R	R	R	S	R	R	R	R	R	R	R	R	R	R	R	R	R
+HCC2157	S	S	S	R	R	R	R	S	R	R	R	S	S	S	R	S	R	S	R	S	S	R	R	S	R	R	S	S	S	R	R	S	S	R	S	R	S	R	S	R	R	S	R	S	R	S	R	R	S	S	S	R
+HCC38	S	R	R	R	R	R	S	R	R	S	R	R	R	R	R	R	R	R	R	R	S	S	R	R	R	S	R	R	S	R	R	R	R	S	S	R	R	R	R	R	R	S	R	R	S	R	R	S	S	R	S	R
+HDQ-P1	S	S	S	S	S	S	R	S	S	S	S	S	R	S	R	S	R	S	S	R	S	S	R	R	R	R	S	R	S	S	R	S	S	R	S	R	S	R	S	R	S	R	R	S	R	R	S	R	S	S	S	R
+Hs-578-T	S	S	S	S	S	S	R	S	S	S	S	S	S	S	R	S	R	S	S	S	S	S	R	S	R	S	S	S	S	S	S	R	S	S	R	S	R	S	S	R	R	S	R	S	S	S	R	S	R	R	S	S
+MDA-MB-231	S	S	R	S	R	R	S	R	R	R	S	R	S	R	R	R	R	S	S	S	S	S	R	R	R	S	R	R	S	S	S	R	S	S	S	R	R	S	R	R	S	S	R	S	S	S	S	S	R	R	R	R
+MDA-MB-436	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R	S	R	R	R	R	R	R	R	R	R	R	S	R	R	R	R	R	R	R	R	R	R	R	R	R	R	S	R	R	R	R
+MDA-MB-468	S	S	S	S	R	S	R	R	S	S	S	S	R	S	S	S	S	S	R	S	S	S	S	R	S	R	S	R	S	S	S	R	S	S	S	S	S	S	R	S	R	S	R	S	S	S	R	S	R	R	S	S
+MFM-223	S	R	S	S	R	S	S	S	R	S	S	R	R	S	R	S	R	R	R	R	R	R	R	S	R	R	R	S	S	R	R	R	S	S	R	R	R	S	S	S	R	R	R	S	R	S	R	S	R	R	R	R
