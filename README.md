@@ -1,5 +1,5 @@
 # TNBC
-Transcriptomics-based investigation of TNBC cell lines' dug resintance mechanisms
+TRANSCRIPTOMICS-BASED INVESTIGATION of DRUG RESISTANCE MECHANISMS in TRIPLE-NEGATIVE BREAST CANCER CELL LINES
 
 ## Getting Started
 
