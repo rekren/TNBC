@@ -1,5 +1,5 @@
 # TNBC
-Transcriptomics-based investigation of TNBC cell lines
+Transcriptomics-based investigation of TNBC cell lines' dug resintance mechanisms
 
 ## Getting Started
 
