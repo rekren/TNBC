@@ -1,7 +1,7 @@
 # TNBC
 TRANSCRIPTOMICS-BASED INVESTIGATION of DRUG RESISTANCE MECHANISMS in TRIPLE-NEGATIVE BREAST CANCER CELL LINES
 
-## Getting Started
+## from this line on, will be filled later on !
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
